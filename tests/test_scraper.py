@@ -20,7 +20,7 @@ class ScraperTests(unittest.TestCase):
 
     def repo(self, name='demo/llm-kit'):
         repo = parse_trending(CARD)[0]
-        repo.update(name=name, categories=['LLM 与生成式 AI'], sources=[{'language': 'all', 'period': 'daily', 'rank': 1, 'period_stars': 123}])
+        repo.update(name=name, categories=['LLMs & Generative AI'], sources=[{'language': 'all', 'period': 'daily', 'rank': 1, 'period_stars': 123}])
         return repo
 
     def root(self, temporary):
@@ -82,7 +82,7 @@ class ScraperTests(unittest.TestCase):
             root = self.root(temporary)
             self.assertEqual(update_archive(root, '2026-11-18', [], ['source'], 25), 0)
             self.assertEqual(read_json(root / 'data/daily/2026-11-18.json', {})['repositories'], [])
-            self.assertIn('暂无', (root / 'README.md').read_text(encoding='utf-8'))
+            self.assertIn('No new projects this month.', (root / 'README.md').read_text(encoding='utf-8'))
 
 
 if __name__ == '__main__':

@@ -126,7 +126,7 @@ def classify(repo, config):
     text = repo["name"] + " " + repo["description"]
     categories = [name for name, patterns in config["categories"].items() if any(re.search(pattern, text, re.IGNORECASE) for pattern in patterns)]
     if not categories and key in {name.casefold() for name in config.get("include_repositories", [])}:
-        categories = ["人工收录"]
+        categories = ["Manually Included"]
     return categories
 
 
@@ -183,7 +183,7 @@ def entries_markdown(records):
     lines = []
     for record in sorted(records, key=lambda item: (item["first_seen"], item["name"].casefold()), reverse=True):
         lines.append(f"* 【{record['first_seen']}】[{record['name']}](https://github.com/{record['name']}) - {md(record['description'])}  \n  `{md(record['language'])}` · {', '.join(record['categories'])} · ![Stars](https://img.shields.io/github/stars/{record['name']}?style=social)")
-    return "\n\n".join(lines) or "本月暂无新收录项目。"
+    return "\n\n".join(lines) or "No new projects this month."
 
 
 def update_archive(root, today, repos, sources, scanned):
@@ -211,8 +211,8 @@ def update_archive(root, today, repos, sources, scanned):
     months = sorted({r["first_seen"][:7] for r in records.values()}, reverse=True)
     for month in months:
         monthly_records = [r for r in records.values() if r["first_seen"].startswith(month)]
-        write_text(root / "archived" / f"{month}.md", f"# AI Trending Archive · {month}\n\n按首次发现日期归档，同一项目仅收录一次。\n\n" + entries_markdown(monthly_records) + "\n")
-    write_text(root / "archived" / "README.md", "# 历史归档\n\n" + ("\n".join(f"- [{month}]({month}.md)" for month in months) or "暂无归档。") + "\n")
+        write_text(root / "archived" / f"{month}.md", f"# AI Trending Archive · {month}\n\nProjects are listed once, by their first-seen date.\n\n" + entries_markdown(monthly_records) + "\n")
+    write_text(root / "archived" / "README.md", "# Monthly Archives\n\n" + ("\n".join(f"- [{month}]({month}.md)" for month in months) or "No archives yet.") + "\n")
     write_text(state_path, json_text(state))
     write_text(snapshot_path, json_text(snapshot))
     render_readme(root, today, records, snapshot, additions)
@@ -222,7 +222,7 @@ def update_archive(root, today, repos, sources, scanned):
 def render_readme(root, today, records, snapshot, additions):
     template = (root / "README.template.md").read_text(encoding="utf-8")
     current = [r for r in records.values() if r["first_seen"].startswith(today[:7])]
-    summary = f"最近更新：**{today}（北京时间）** · 累计收录 **{len(records)}** 个项目 · 本月新发现 **{len(current)}** 个 · 今日发现 **{len(snapshot['repositories'])}** 个 AI 项目\n\n[当天 JSON 快照](data/daily/{today}.json) · [完整项目索引](data/repositories.json) · [历史月度归档](archived/README.md)"
+    summary = f"Updated: **{today} (UTC+8)** · **{len(records)}** projects archived · **{len(current)}** new this month · **{len(snapshot['repositories'])}** found today\n\n[Daily Snapshot](data/daily/{today}.json) · [Project Index](data/repositories.json) · [Monthly Archives](archived/README.md)"
     write_text(root / "README.md", template.replace("<!-- SUMMARY -->", summary).replace("<!-- ENTRIES -->", entries_markdown(current)))
 
 
