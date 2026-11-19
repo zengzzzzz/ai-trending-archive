@@ -88,7 +88,7 @@ Edit `README.template.md` to change this page. Run `python -m unittest discover 
 * 【2026-11-18】[obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.  
   `Shell` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=social)
 
-* 【2026-11-18】[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.  
+* 【2026-11-18】[NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.  
   `Python` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/NVIDIA/SkillEvaluator?style=social)
 
 * 【2026-11-18】[NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.  
