@@ -4,9 +4,9 @@
 
 Track and archive AI projects discovered on GitHub Trending.
 
-Updated: **2026-11-19 (UTC+8)** · **51** projects archived · **51** new this month · **51** found today
+Updated: **2026-11-20 (UTC+8)** · **89** projects archived · **89** new this month · **59** found today
 
-[Daily Snapshot](data/daily/2026-11-19.json) · [Project Index](data/repositories.json) · [Monthly Archives](archived/README.md)
+[Daily Snapshot](data/daily/2026-11-20.json) · [Project Index](data/repositories.json) · [Monthly Archives](archived/README.md)
 
 ## Features
 
@@ -36,6 +36,120 @@ Run **Actions → Daily AI Trending → Run workflow** for a manual update. Mont
 Edit `README.template.md` to change this page. Run `python -m unittest discover -s tests -v` to test locally.
 
 ## New This Month
+
+* 【2026-11-20】[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.  
+  `Python` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/zhouxiaoka/autoclip?style=social)
+
+* 【2026-11-20】[wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.  
+  `Python` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
+
+* 【2026-11-20】[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities  
+  `JavaScript` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=social)
+
+* 【2026-11-20】[twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.  
+  `TypeScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social)
+
+* 【2026-11-20】[tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.  
+  `TypeScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/tianma-if/edgeever?style=social)
+
+* 【2026-11-20】[t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。  
+  `Rust` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/t8y2/dbx?style=social)
+
+* 【2026-11-20】[SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores \>74% on SWE-bench verified!  
+  `Python` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=social)
+
+* 【2026-11-20】[rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies  
+  `Rust` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)
+
+* 【2026-11-20】[pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A PyTorch native platform for training generative AI models  
+  `Python` · LLMs & Generative AI, AI Agents & Developer Tools, Machine Learning & Deep Learning · ![Stars](https://img.shields.io/github/stars/pytorch/torchtitan?style=social)
+
+* 【2026-11-20】[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.  
+  `Jupyter Notebook` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/patchy631/ai-engineering-hub?style=social)
+
+* 【2026-11-20】[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.  
+  `JavaScript` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social)
+
+* 【2026-11-20】[multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.  
+  `Go` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/multica-ai/multica?style=social)
+
+* 【2026-11-20】[mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.  
+  `Jupyter Notebook` · Machine Learning & Deep Learning · ![Stars](https://img.shields.io/github/stars/mrdbourke/pytorch-deep-learning?style=social)
+
+* 【2026-11-20】[mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) - Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.  
+  `Shell` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/mjmirza/app-store-compliance?style=social)
+
+* 【2026-11-20】[michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.  
+  `JavaScript` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/michael-denyer/pstack-claude?style=social)
+
+* 【2026-11-20】[mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.  
+  `TypeScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
+
+* 【2026-11-20】[lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU  
+  `Jupyter Notebook` · LLMs & Generative AI, Retrieval, Vectors & Model Infrastructure · ![Stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social)
+
+* 【2026-11-20】[kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.  
+  `C++` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/kvcache-ai/Mooncake?style=social)
+
+* 【2026-11-20】[k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages  
+  `C++` · Vision, Speech & Multimodal AI · ![Stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social)
+
+* 【2026-11-20】[janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.  
+  `Rust` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/janhq/jan?style=social)
+
+* 【2026-11-20】[intrinsic-ai/intrinsic-core](https://github.com/intrinsic-ai/intrinsic-core) - Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, real-time control framework for industrial robotics.  
+  `C++` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/intrinsic-ai/intrinsic-core?style=social)
+
+* 【2026-11-20】[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize  
+  `Python` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=social)
+
+* 【2026-11-20】[HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.  
+  `JavaScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/HaD0Yun/CozyClay?style=social)
+
+* 【2026-11-20】[gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent  
+  `Go` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/gastownhall/beads?style=social)
+
+* 【2026-11-20】[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.  
+  `TypeScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=social)
+
+* 【2026-11-20】[facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.  
+  `Jupyter Notebook` · Machine Learning & Deep Learning · ![Stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)
+
+* 【2026-11-20】[earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI  
+  `TypeScript` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/earendil-works/pi?style=social)
+
+* 【2026-11-20】[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.  
+  `JavaScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=social)
+
+* 【2026-11-20】[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址： https://datawhalechina.github.io/llm-universe/  
+  `Jupyter Notebook` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/datawhalechina/llm-universe?style=social)
+
+* 【2026-11-20】[croffasia/itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.  
+  `TypeScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/croffasia/itsaplan?style=social)
+
+* 【2026-11-20】[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.  
+  `HTML` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=social)
+
+* 【2026-11-20】[bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh \| sh  
+  `TypeScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/bendlang/bend?style=social)
+
+* 【2026-11-20】[babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。  
+  `JavaScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/babygoton/WorkDaddy?style=social)
+
+* 【2026-11-20】[awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions  
+  `Python` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/awslabs/cli-agent-orchestrator?style=social)
+
+* 【2026-11-20】[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.  
+  `Jupyter Notebook` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=social)
+
+* 【2026-11-20】[anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.  
+  `TypeScript` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social)
+
+* 【2026-11-20】[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.  
+  `Python` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)
+
+* 【2026-11-20】[0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust  
+  `Rust` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/0xPlaygrounds/rig?style=social)
 
 * 【2026-11-18】[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。  
   `Go` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/Wei-Shaw/sub2api?style=social)
