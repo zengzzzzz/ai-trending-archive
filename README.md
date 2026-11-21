@@ -4,7 +4,7 @@
 
 Track and archive AI projects discovered on GitHub Trending.
 
-Updated: **2026-11-21 (UTC+8)** · **89** projects archived · **89** new this month · **59** found today
+Updated: **2026-11-21 (UTC+8)** · **93** projects archived · **93** new this month · **63** found today
 
 [Daily Snapshot](data/daily/2026-11-21.json) · [Project Index](data/repositories.json) · [Monthly Archives](archived/README.md)
 
@@ -37,6 +37,18 @@ Run **Actions → Daily Github Trending → Run workflow** for a manual update. 
 Edit `README.template.md` to change this page. Run `python -m unittest discover -s tests -v` to test locally.
 
 ## New This Month
+
+* 【2026-11-21】[microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  
+  `Java` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/microsoft/copilot-sdk?style=social)
+
+* 【2026-11-21】[langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.  
+  `Java` · LLMs & Generative AI, AI Agents & Developer Tools, Retrieval, Vectors & Model Infrastructure · ![Stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)
+
+* 【2026-11-21】[kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.  
+  `Java` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social)
+
+* 【2026-11-21】[apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.  
+  `Java` · Vision, Speech & Multimodal AI · ![Stars](https://img.shields.io/github/stars/apache/seatunnel?style=social)
 
 * 【2026-11-20】[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.  
   `Python` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/zhouxiaoka/autoclip?style=social)
