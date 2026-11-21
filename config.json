@@ -1,12 +1,90 @@
 {
-  "languages": ["", "python", "typescript", "javascript", "jupyter-notebook", "c++", "rust", "go"],
-  "periods": ["daily"],
+  "languages": [
+    "",
+    "go",
+    "python",
+    "javascript",
+    "java",
+    "c",
+    "c++",
+    "typescript"
+  ],
+  "periods": [
+    "daily"
+  ],
   "categories": {
-    "LLMs & Generative AI": ["\\bllms?\\b", "large language model", "generative ai", "\\bgpts?\\b", "chatgpt", "\\bclaude\\b", "\\bgemini\\b", "\\bqwen\\b", "\\bllama\\b", "\\bdeepseek\\b", "大模型", "生成式", "大语言模型"],
-    "AI Agents & Developer Tools": ["\\bai\\b", "artificial intelligence", "\\bai[- ]?agents?\\b", "agentic", "coding agent", "coding assistant", "\\bcodex\\b", "\\bcopilot\\b", "\\bmcp\\b", "model context protocol", "langchain", "人工智能", "智能体"],
-    "Machine Learning & Deep Learning": ["machine[- ]learning", "deep[- ]learning", "neural network", "\\bpytorch\\b", "\\btensorflow\\b", "\\btransformers\\b", "reinforcement learning", "机器学习", "深度学习", "神经网络", "强化学习"],
-    "Vision, Speech & Multimodal AI": ["computer vision", "diffusion model", "stable diffusion", "text[- ]to[- ](?:image|video|speech)", "speech recognition", "multimodal", "multi-modal", "计算机视觉", "语音识别", "多模态", "图像生成", "视频生成"],
-    "Retrieval, Vectors & Model Infrastructure": ["\\brag\\b", "retrieval[- ]augmented", "vector database", "vector search", "embedding model", "model serving", "llm inference", "\\bvllm\\b", "\\bollama\\b", "向量数据库", "检索增强", "模型推理", "模型部署"]
+    "LLMs & Generative AI": [
+      "\\bllms?\\b",
+      "large language model",
+      "generative ai",
+      "\\bgpts?\\b",
+      "chatgpt",
+      "\\bclaude\\b",
+      "\\bgemini\\b",
+      "\\bqwen\\b",
+      "\\bllama\\b",
+      "\\bdeepseek\\b",
+      "大模型",
+      "生成式",
+      "大语言模型"
+    ],
+    "AI Agents & Developer Tools": [
+      "\\bai\\b",
+      "artificial intelligence",
+      "\\bai[- ]?agents?\\b",
+      "agentic",
+      "coding agent",
+      "coding assistant",
+      "\\bcodex\\b",
+      "\\bcopilot\\b",
+      "\\bmcp\\b",
+      "model context protocol",
+      "langchain",
+      "人工智能",
+      "智能体"
+    ],
+    "Machine Learning & Deep Learning": [
+      "machine[- ]learning",
+      "deep[- ]learning",
+      "neural network",
+      "\\bpytorch\\b",
+      "\\btensorflow\\b",
+      "\\btransformers\\b",
+      "reinforcement learning",
+      "机器学习",
+      "深度学习",
+      "神经网络",
+      "强化学习"
+    ],
+    "Vision, Speech & Multimodal AI": [
+      "computer vision",
+      "diffusion model",
+      "stable diffusion",
+      "text[- ]to[- ](?:image|video|speech)",
+      "speech recognition",
+      "multimodal",
+      "multi-modal",
+      "计算机视觉",
+      "语音识别",
+      "多模态",
+      "图像生成",
+      "视频生成"
+    ],
+    "Retrieval, Vectors & Model Infrastructure": [
+      "\\brag\\b",
+      "retrieval[- ]augmented",
+      "vector database",
+      "vector search",
+      "embedding model",
+      "model serving",
+      "llm inference",
+      "\\bvllm\\b",
+      "\\bollama\\b",
+      "向量数据库",
+      "检索增强",
+      "模型推理",
+      "模型部署"
+    ]
   },
   "include_repositories": [],
   "exclude_repositories": []
