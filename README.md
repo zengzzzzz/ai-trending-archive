@@ -4,9 +4,9 @@
 
 Track and archive AI projects discovered on GitHub Trending.
 
-Updated: **2026-11-21 (UTC+8)** · **93** projects archived · **93** new this month · **63** found today
+Updated: **2026-11-22 (UTC+8)** · **93** projects archived · **93** new this month · **47** found today
 
-[Daily Snapshot](data/daily/2026-11-21.json) · [Project Index](data/repositories.json) · [Monthly Archives](archived/README.md)
+[Daily Snapshot](data/daily/2026-11-22.json) · [Project Index](data/repositories.json) · [Monthly Archives](archived/README.md)
 
 ## Features
 
@@ -89,7 +89,7 @@ Edit `README.template.md` to change this page. Run `python -m unittest discover 
 * 【2026-11-20】[mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.  
   `Jupyter Notebook` · Machine Learning & Deep Learning · ![Stars](https://img.shields.io/github/stars/mrdbourke/pytorch-deep-learning?style=social)
 
-* 【2026-11-20】[mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) - Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.  
+* 【2026-11-20】[mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) - Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.  
   `Shell` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/mjmirza/app-store-compliance?style=social)
 
 * 【2026-11-20】[michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.  
