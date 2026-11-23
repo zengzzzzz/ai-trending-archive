@@ -1,40 +1,16 @@
 # AI Trending Archive
 
+A daily, deduplicated archive of AI projects on GitHub Trending, with monthly history and JSON snapshots.
+
 [![Daily Github Trending](https://github.com/zengzzzzz/ai-trending-archive/actions/workflows/schedule_daily.yml/badge.svg)](https://github.com/zengzzzzz/ai-trending-archive/actions/workflows/schedule_daily.yml)
 
-Track and archive AI projects discovered on GitHub Trending.
+**[Browse this month's projects](#new-this-month)** · **[Monthly archives](archived/README.md)**
+
+Browse directly on GitHub. Projects are listed once, in the month they were first discovered.
 
 Updated: **2026-11-23 (UTC+8)** · **93** projects archived · **93** new this month · **47** found today
 
 [Daily Snapshot](data/daily/2026-11-23.json) · [Project Index](data/repositories.json) · [Monthly Archives](archived/README.md)
-
-## Features
-
-- Daily updates at **09:00 (UTC+8)** with GitHub Actions.
-- Daily Trending lists for all languages, Go, Python, JavaScript, Java, C, C++, and TypeScript.
-- AI projects across multiple languages, including LLMs, agents, machine learning, and model infrastructure.
-- Deduplicated entries with first-seen dates, monthly archives, and daily JSON snapshots.
-- No API keys or third-party dependencies required.
-
-## Getting Started
-
-Requires Python **3.12+**.
-
-```bash
-git clone https://github.com/zengzzzzz/ai-trending-archive.git
-cd ai-trending-archive
-python scraper.py
-```
-
-Edit `config.json` to customize languages, keyword filters, and repository inclusion or exclusion. Use `--since weekly` or `--since monthly` for other Trending periods.
-
-Projects are filtered by repository names and descriptions, so results may include false matches or miss relevant projects. Original project descriptions are preserved.
-
-## Automation
-
-Run **Actions → Daily Github Trending → Run workflow** for a manual update. Run **Actions → Monthly Github Trending Archive → Run workflow** to archive completed months. Monthly archiving runs at **08:00 (UTC+8) on the first day of each month**; projects are listed once by their first-seen month.
-
-Edit `README.template.md` to change this page. Run `python -m unittest discover -s tests -v` to test locally.
 
 ## New This Month
 
@@ -316,3 +292,36 @@ Edit `README.template.md` to change this page. Run `python -m unittest discover 
 
 * 【2026-11-18】[affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.  
   `JavaScript` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/affaan-m/ECC?style=social)
+
+<details>
+<summary>How it works, configuration, and running your own archive</summary>
+
+## Features
+
+- Daily updates at **09:00 (UTC+8)** with GitHub Actions.
+- Daily Trending lists for all languages, Go, Python, JavaScript, Java, C, C++, and TypeScript.
+- AI projects across multiple languages, including LLMs, agents, machine learning, and model infrastructure.
+- Deduplicated entries with first-seen dates, monthly archives, and daily JSON snapshots.
+- No API keys or third-party dependencies required.
+
+## Getting Started
+
+Requires Python **3.12+**.
+
+```bash
+git clone https://github.com/zengzzzzz/ai-trending-archive.git
+cd ai-trending-archive
+python scraper.py
+```
+
+Edit `config.json` to customize languages, keyword filters, and repository inclusion or exclusion. Use `--since weekly` or `--since monthly` for other Trending periods.
+
+Projects are filtered by repository names and descriptions, so results may include false matches or miss relevant projects. Original project descriptions are preserved.
+
+## Automation
+
+Run **Actions → Daily Github Trending → Run workflow** for a manual update. Run **Actions → Monthly Github Trending Archive → Run workflow** to archive completed months. Monthly archiving runs at **08:00 (UTC+8) on the first day of each month**; projects are listed once by their first-seen month.
+
+Edit `README.template.md` to change this page. Run `python -m unittest discover -s tests -v` to test locally.
+
+</details>
