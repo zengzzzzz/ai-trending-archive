@@ -8,7 +8,7 @@ A daily, deduplicated archive of AI projects on GitHub Trending, with monthly hi
 
 Browse directly on GitHub. Projects are listed once, in the month they were first discovered.
 
-Updated: **2026-11-23 (UTC+8)** · **93** projects archived · **93** new this month · **47** found today
+Updated: **2026-11-24 (UTC+8)** · **93** projects archived · **93** new this month · **47** found today
 
 [Monthly Archives](archived/README.md)
 
@@ -260,7 +260,7 @@ Updated: **2026-11-23 (UTC+8)** · **93** projects archived · **93** new this m
 * 【2026-11-18】[ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.  
   `Python` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/ethanplusai/sellbird?style=social)
 
-* 【2026-11-18】[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.  
+* 【2026-11-18】[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.  
   `Python` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=social)
 
 * 【2026-11-18】[dream-num/univer](https://github.com/dream-num/univer) - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.  
