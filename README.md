@@ -8,7 +8,7 @@ A daily, deduplicated archive of AI projects on GitHub Trending, with monthly hi
 
 Browse directly on GitHub. Projects are listed once, in the month they were first discovered.
 
-Updated: **2026-11-24 (UTC+8)** · **93** projects archived · **93** new this month · **47** found today
+Updated: **2026-11-25 (UTC+8)** · **93** projects archived · **93** new this month · **46** found today
 
 [Monthly Archives](archived/README.md)
 
