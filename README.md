@@ -8,11 +8,14 @@ A daily, deduplicated archive of AI projects on GitHub Trending, with monthly hi
 
 Browse directly on GitHub. Projects are listed once, in the month they were first discovered.
 
-Updated: **2026-11-25 (UTC+8)** · **93** projects archived · **93** new this month · **46** found today
+Updated: **2026-11-26 (UTC+8)** · **94** projects archived · **94** new this month · **47** found today
 
 [Monthly Archives](archived/README.md)
 
 ## New This Month
+
+* 【2026-11-26】[samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio  
+  `Python` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/samuelgursky/davinci-resolve-mcp?style=social)
 
 * 【2026-11-21】[microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  
   `Java` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/microsoft/copilot-sdk?style=social)
@@ -59,13 +62,13 @@ Updated: **2026-11-25 (UTC+8)** · **93** projects archived · **93** new this m
 * 【2026-11-20】[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.  
   `JavaScript` · LLMs & Generative AI, AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=social)
 
-* 【2026-11-20】[multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.  
+* 【2026-11-20】[multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.  
   `Go` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/multica-ai/multica?style=social)
 
 * 【2026-11-20】[mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.  
   `Jupyter Notebook` · Machine Learning & Deep Learning · ![Stars](https://img.shields.io/github/stars/mrdbourke/pytorch-deep-learning?style=social)
 
-* 【2026-11-20】[mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) - Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.  
+* 【2026-11-20】[mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) - Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.  
   `Shell` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/mjmirza/app-store-compliance?style=social)
 
 * 【2026-11-20】[michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.  
@@ -260,7 +263,7 @@ Updated: **2026-11-25 (UTC+8)** · **93** projects archived · **93** new this m
 * 【2026-11-18】[ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) - Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.  
   `Python` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/ethanplusai/sellbird?style=social)
 
-* 【2026-11-18】[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.  
+* 【2026-11-18】[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.  
   `Python` · LLMs & Generative AI · ![Stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=social)
 
 * 【2026-11-18】[dream-num/univer](https://github.com/dream-num/univer) - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.  
