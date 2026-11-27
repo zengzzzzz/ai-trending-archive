@@ -8,7 +8,7 @@ A daily, deduplicated archive of AI projects on GitHub Trending, with monthly hi
 
 Browse directly on GitHub. Projects are listed once, in the month they were first discovered.
 
-Updated: **2026-11-26 (UTC+8)** · **94** projects archived · **94** new this month · **47** found today
+Updated: **2026-11-27 (UTC+8)** · **94** projects archived · **94** new this month · **48** found today
 
 [Monthly Archives](archived/README.md)
 
@@ -29,7 +29,7 @@ Updated: **2026-11-26 (UTC+8)** · **94** projects archived · **94** new this m
 * 【2026-11-21】[apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.  
   `Java` · Vision, Speech & Multimodal AI · ![Stars](https://img.shields.io/github/stars/apache/seatunnel?style=social)
 
-* 【2026-11-20】[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.  
+* 【2026-11-20】[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。  
   `Python` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/zhouxiaoka/autoclip?style=social)
 
 * 【2026-11-20】[wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.  
