@@ -8,7 +8,7 @@ A daily, deduplicated archive of AI projects on GitHub Trending, with monthly hi
 
 Browse directly on GitHub. Projects are listed once, in the month they were first discovered.
 
-Updated: **2026-11-27 (UTC+8)** · **94** projects archived · **94** new this month · **48** found today
+Updated: **2026-11-28 (UTC+8)** · **94** projects archived · **94** new this month · **48** found today
 
 [Monthly Archives](archived/README.md)
 
@@ -18,7 +18,7 @@ Updated: **2026-11-27 (UTC+8)** · **94** projects archived · **94** new this m
   `Python` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/samuelgursky/davinci-resolve-mcp?style=social)
 
 * 【2026-11-21】[microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  
-  `Java` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/microsoft/copilot-sdk?style=social)
+  `Rust` · AI Agents & Developer Tools · ![Stars](https://img.shields.io/github/stars/microsoft/copilot-sdk?style=social)
 
 * 【2026-11-21】[langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.  
   `Java` · LLMs & Generative AI, AI Agents & Developer Tools, Retrieval, Vectors & Model Infrastructure · ![Stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social)

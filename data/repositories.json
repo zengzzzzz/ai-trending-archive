@@ -6,9 +6,9 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars": 25179,
-      "forks": 2559,
-      "period_stars": 1597,
+      "stars": 26507,
+      "forks": 2710,
+      "period_stars": 1608,
       "categories": [
         "LLMs & Generative AI"
       ],
@@ -17,26 +17,26 @@
           "language": "all",
           "period": "daily",
           "rank": 1,
-          "period_stars": 1597
+          "period_stars": 1608
         },
         {
           "language": "python",
           "period": "daily",
           "rank": 1,
-          "period_stars": 1597
+          "period_stars": 1608
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "mvanhorn/last30days-skill": {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 76019,
-      "forks": 6715,
-      "period_stars": 759,
+      "stars": 76512,
+      "forks": 6808,
+      "period_stars": 675,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -45,17 +45,17 @@
           "language": "all",
           "period": "daily",
           "rank": 10,
-          "period_stars": 759
+          "period_stars": 675
         },
         {
           "language": "python",
           "period": "daily",
           "rank": 4,
-          "period_stars": 759
+          "period_stars": 675
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "nvidia/skillevaluator": {
       "name": "NVIDIA/SkillEvaluator",
@@ -90,9 +90,9 @@
       "url": "https://github.com/google-research/paper-orchestra",
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "language": "Python",
-      "stars": 6555,
-      "forks": 847,
-      "period_stars": 113,
+      "stars": 6696,
+      "forks": 856,
+      "period_stars": 110,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -101,20 +101,20 @@
           "language": "python",
           "period": "daily",
           "rank": 24,
-          "period_stars": 113
+          "period_stars": 110
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "google-labs-code/stitch-skills": {
       "name": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": 13415,
-      "forks": 1580,
-      "period_stars": 309,
+      "stars": 13679,
+      "forks": 1638,
+      "period_stars": 311,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -124,26 +124,26 @@
           "language": "all",
           "period": "daily",
           "rank": 11,
-          "period_stars": 309
+          "period_stars": 311
         },
         {
           "language": "typescript",
           "period": "daily",
           "rank": 3,
-          "period_stars": 309
+          "period_stars": 311
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "openvinotoolkit/openvino": {
       "name": "openvinotoolkit/openvino",
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars": 12868,
-      "forks": 3754,
-      "period_stars": 176,
+      "stars": 12984,
+      "forks": 3817,
+      "period_stars": 151,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -152,26 +152,26 @@
           "language": "all",
           "period": "daily",
           "rank": 8,
-          "period_stars": 176
+          "period_stars": 151
         },
         {
           "language": "c++",
           "period": "daily",
           "rank": 1,
-          "period_stars": 176
+          "period_stars": 151
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "obra/superpowers": {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 327818,
-      "forks": 29091,
-      "period_stars": 854,
+      "stars": 328569,
+      "forks": 29204,
+      "period_stars": 922,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -180,20 +180,20 @@
           "language": "all",
           "period": "daily",
           "rank": 2,
-          "period_stars": 854
+          "period_stars": 922
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "affaan-m/ecc": {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 311470,
-      "forks": 45760,
-      "period_stars": 602,
+      "stars": 312057,
+      "forks": 45844,
+      "period_stars": 570,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -203,11 +203,11 @@
           "language": "javascript",
           "period": "daily",
           "rank": 1,
-          "period_stars": 602
+          "period_stars": 570
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "n8n-io/n8n": {
       "name": "n8n-io/n8n",
@@ -310,9 +310,9 @@
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars": 71952,
-      "forks": 9358,
-      "period_stars": 702,
+      "stars": 72350,
+      "forks": 9462,
+      "period_stars": 660,
       "categories": [
         "LLMs & Generative AI"
       ],
@@ -321,17 +321,17 @@
           "language": "all",
           "period": "daily",
           "rank": 4,
-          "period_stars": 702
+          "period_stars": 660
         },
         {
           "language": "python",
           "period": "daily",
           "rank": 3,
-          "period_stars": 702
+          "period_stars": 660
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "openai/whisper": {
       "name": "openai/whisper",
@@ -383,9 +383,9 @@
       "url": "https://github.com/vllm-project/vllm-ascend",
       "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
       "language": "Python",
-      "stars": 3159,
-      "forks": 2862,
-      "period_stars": 4,
+      "stars": 3161,
+      "forks": 2863,
+      "period_stars": 5,
       "categories": [
         "Retrieval, Vectors & Model Infrastructure"
       ],
@@ -394,11 +394,11 @@
           "language": "python",
           "period": "daily",
           "rank": 15,
-          "period_stars": 4
+          "period_stars": 5
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "dodaios/dodaios": {
       "name": "Dodaios/Dodaios",
@@ -472,9 +472,9 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 78847,
-      "forks": 5262,
-      "period_stars": 99,
+      "stars": 78991,
+      "forks": 5269,
+      "period_stars": 114,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -484,11 +484,11 @@
           "language": "typescript",
           "period": "daily",
           "rank": 11,
-          "period_stars": 99
+          "period_stars": 114
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "jcodesmore/ai-website-cloner-template": {
       "name": "JCodesMore/ai-website-cloner-template",
@@ -918,9 +918,9 @@
       "url": "https://github.com/microsoft/BitNet",
       "description": "Official inference framework for 1-bit LLMs",
       "language": "C++",
-      "stars": 42507,
-      "forks": 4021,
-      "period_stars": 23,
+      "stars": 42513,
+      "forks": 4023,
+      "period_stars": 16,
       "categories": [
         "LLMs & Generative AI"
       ],
@@ -929,11 +929,11 @@
           "language": "c++",
           "period": "daily",
           "rank": 3,
-          "period_stars": 23
+          "period_stars": 16
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "tensorflow/tensorflow": {
       "name": "tensorflow/tensorflow",
@@ -1053,9 +1053,9 @@
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
-      "stars": 6061,
-      "forks": 867,
-      "period_stars": 97,
+      "stars": 6104,
+      "forks": 883,
+      "period_stars": 95,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1065,20 +1065,20 @@
           "language": "go",
           "period": "daily",
           "rank": 3,
-          "period_stars": 97
+          "period_stars": 95
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "opensandbox-group/opensandbox": {
       "name": "opensandbox-group/OpenSandbox",
       "url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
-      "stars": 17971,
-      "forks": 1740,
-      "period_stars": 29,
+      "stars": 17992,
+      "forks": 1746,
+      "period_stars": 36,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1087,20 +1087,20 @@
           "language": "go",
           "period": "daily",
           "rank": 7,
-          "period_stars": 29
+          "period_stars": 36
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "vxcontrol/pentagi": {
       "name": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars": 35140,
-      "forks": 5645,
-      "period_stars": 65,
+      "stars": 35195,
+      "forks": 5667,
+      "period_stars": 77,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1109,11 +1109,11 @@
           "language": "go",
           "period": "daily",
           "rank": 2,
-          "period_stars": 65
+          "period_stars": 77
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "wei-shaw/sub2api": {
       "name": "Wei-Shaw/sub2api",
@@ -1165,9 +1165,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
-      "stars": 13477,
-      "forks": 1252,
-      "period_stars": 18,
+      "stars": 13479,
+      "forks": 1251,
+      "period_stars": 13,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1176,20 +1176,20 @@
           "language": "go",
           "period": "daily",
           "rank": 10,
-          "period_stars": 18
+          "period_stars": 13
         }
       ],
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "cathrynlavery/diagram-design": {
       "name": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 74143,
-      "forks": 4966,
-      "period_stars": 955,
+      "stars": 74602,
+      "forks": 5039,
+      "period_stars": 725,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1199,20 +1199,20 @@
           "language": "all",
           "period": "daily",
           "rank": 9,
-          "period_stars": 955
+          "period_stars": 725
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "mjmirza/app-store-compliance": {
       "name": "mjmirza/app-store-compliance",
       "url": "https://github.com/mjmirza/app-store-compliance",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars": 7231,
-      "forks": 504,
-      "period_stars": 562,
+      "stars": 8105,
+      "forks": 610,
+      "period_stars": 530,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1221,20 +1221,20 @@
           "language": "all",
           "period": "daily",
           "rank": 12,
-          "period_stars": 562
+          "period_stars": 530
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "zhouxiaoka/autoclip": {
       "name": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
       "language": "Python",
-      "stars": 17283,
-      "forks": 2422,
-      "period_stars": 774,
+      "stars": 17767,
+      "forks": 2506,
+      "period_stars": 718,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1243,26 +1243,26 @@
           "language": "all",
           "period": "daily",
           "rank": 16,
-          "period_stars": 774
+          "period_stars": 718
         },
         {
           "language": "python",
           "period": "daily",
           "rank": 7,
-          "period_stars": 774
+          "period_stars": 718
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "imbad0202/academic-research-skills": {
       "name": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars": 58776,
-      "forks": 4479,
-      "period_stars": 120,
+      "stars": 58897,
+      "forks": 4486,
+      "period_stars": 162,
       "categories": [
         "LLMs & Generative AI"
       ],
@@ -1271,20 +1271,20 @@
           "language": "python",
           "period": "daily",
           "rank": 8,
-          "period_stars": 120
+          "period_stars": 162
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "wshobson/agents": {
       "name": "wshobson/agents",
       "url": "https://github.com/wshobson/agents",
       "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
       "language": "Python",
-      "stars": 42959,
-      "forks": 4551,
-      "period_stars": 38,
+      "stars": 42998,
+      "forks": 4557,
+      "period_stars": 62,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1294,20 +1294,20 @@
           "language": "python",
           "period": "daily",
           "rank": 9,
-          "period_stars": 38
+          "period_stars": 62
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "swe-agent/mini-swe-agent": {
       "name": "SWE-agent/mini-swe-agent",
       "url": "https://github.com/SWE-agent/mini-swe-agent",
       "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
       "language": "Python",
-      "stars": 10135,
-      "forks": 1372,
-      "period_stars": 43,
+      "stars": 10150,
+      "forks": 1374,
+      "period_stars": 28,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1316,20 +1316,20 @@
           "language": "python",
           "period": "daily",
           "rank": 12,
-          "period_stars": 43
+          "period_stars": 28
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "pytorch/torchtitan": {
       "name": "pytorch/torchtitan",
       "url": "https://github.com/pytorch/torchtitan",
       "description": "A PyTorch native platform for training generative AI models",
       "language": "Python",
-      "stars": 5995,
-      "forks": 1102,
-      "period_stars": 11,
+      "stars": 6001,
+      "forks": 1105,
+      "period_stars": 10,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools",
@@ -1340,20 +1340,20 @@
           "language": "python",
           "period": "daily",
           "rank": 13,
-          "period_stars": 11
+          "period_stars": 10
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "awslabs/cli-agent-orchestrator": {
       "name": "awslabs/cli-agent-orchestrator",
       "url": "https://github.com/awslabs/cli-agent-orchestrator",
       "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
       "language": "Python",
-      "stars": 1702,
-      "forks": 353,
-      "period_stars": 12,
+      "stars": 1730,
+      "forks": 356,
+      "period_stars": 29,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1363,20 +1363,20 @@
           "language": "python",
           "period": "daily",
           "rank": 14,
-          "period_stars": 12
+          "period_stars": 29
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "agentscope-ai/agentscope": {
       "name": "agentscope-ai/agentscope",
       "url": "https://github.com/agentscope-ai/agentscope",
       "description": "Build and run agents you can see, understand and trust.",
       "language": "Python",
-      "stars": 36797,
-      "forks": 3946,
-      "period_stars": 56,
+      "stars": 36836,
+      "forks": 3950,
+      "period_stars": 59,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1385,20 +1385,20 @@
           "language": "python",
           "period": "daily",
           "rank": 23,
-          "period_stars": 56
+          "period_stars": 59
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "bendlang/bend": {
       "name": "bendlang/bend",
       "url": "https://github.com/bendlang/bend",
       "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
       "language": "TypeScript",
-      "stars": 25951,
-      "forks": 827,
-      "period_stars": 40,
+      "stars": 25999,
+      "forks": 828,
+      "period_stars": 58,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1407,20 +1407,20 @@
           "language": "typescript",
           "period": "daily",
           "rank": 5,
-          "period_stars": 40
+          "period_stars": 58
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "mastra-ai/mastra": {
       "name": "mastra-ai/mastra",
       "url": "https://github.com/mastra-ai/mastra",
       "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
       "language": "TypeScript",
-      "stars": 29853,
-      "forks": 3145,
-      "period_stars": 20,
+      "stars": 29866,
+      "forks": 3151,
+      "period_stars": 26,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1429,20 +1429,20 @@
           "language": "typescript",
           "period": "daily",
           "rank": 7,
-          "period_stars": 20
+          "period_stars": 26
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "tianma-if/edgeever": {
       "name": "tianma-if/edgeever",
       "url": "https://github.com/tianma-if/edgeever",
       "description": "AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.",
       "language": "TypeScript",
-      "stars": 3626,
-      "forks": 1875,
-      "period_stars": 31,
+      "stars": 3707,
+      "forks": 1900,
+      "period_stars": 63,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1451,20 +1451,20 @@
           "language": "typescript",
           "period": "daily",
           "rank": 8,
-          "period_stars": 31
+          "period_stars": 63
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "twentyhq/twenty": {
       "name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars": 61532,
-      "forks": 10204,
-      "period_stars": 45,
+      "stars": 61581,
+      "forks": 10213,
+      "period_stars": 46,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1473,20 +1473,20 @@
           "language": "typescript",
           "period": "daily",
           "rank": 9,
-          "period_stars": 45
+          "period_stars": 46
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "fission-ai/openspec": {
       "name": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
-      "stars": 75856,
-      "forks": 5199,
-      "period_stars": 90,
+      "stars": 75923,
+      "forks": 5207,
+      "period_stars": 92,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1495,42 +1495,20 @@
           "language": "typescript",
           "period": "daily",
           "rank": 13,
-          "period_stars": 90
+          "period_stars": 92
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "croffasia/itsaplan": {
       "name": "croffasia/itsaplan",
       "url": "https://github.com/croffasia/itsaplan",
       "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
       "language": "TypeScript",
-      "stars": 2695,
-      "forks": 367,
-      "period_stars": 34,
-      "categories": [
-        "AI Agents & Developer Tools"
-      ],
-      "sources": [
-        {
-          "language": "typescript",
-          "period": "daily",
-          "rank": 15,
-          "period_stars": 34
-        }
-      ],
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
-    },
-    "anomalyco/opencode": {
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "stars": 229504,
-      "forks": 31257,
-      "period_stars": 249,
+      "stars": 2728,
+      "forks": 368,
+      "period_stars": 29,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1539,20 +1517,42 @@
           "language": "typescript",
           "period": "daily",
           "rank": 16,
-          "period_stars": 249
+          "period_stars": 29
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
+    },
+    "anomalyco/opencode": {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 229676,
+      "forks": 31283,
+      "period_stars": 277,
+      "categories": [
+        "AI Agents & Developer Tools"
+      ],
+      "sources": [
+        {
+          "language": "typescript",
+          "period": "daily",
+          "rank": 17,
+          "period_stars": 277
+        }
+      ],
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-28"
     },
     "earendil-works/pi": {
       "name": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars": 124178,
-      "forks": 16057,
-      "period_stars": 213,
+      "stars": 124408,
+      "forks": 16074,
+      "period_stars": 235,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1561,21 +1561,21 @@
         {
           "language": "typescript",
           "period": "daily",
-          "rank": 17,
-          "period_stars": 213
+          "rank": 18,
+          "period_stars": 235
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "wonderwhy-er/desktopcommandermcp": {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "JavaScript",
-      "stars": 10439,
-      "forks": 1316,
-      "period_stars": 16,
+      "stars": 10448,
+      "forks": 1318,
+      "period_stars": 15,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1585,20 +1585,20 @@
           "language": "javascript",
           "period": "daily",
           "rank": 3,
-          "period_stars": 16
+          "period_stars": 15
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "michael-denyer/pstack-claude": {
       "name": "michael-denyer/pstack-claude",
       "url": "https://github.com/michael-denyer/pstack-claude",
       "description": "Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "language": "JavaScript",
-      "stars": 4934,
-      "forks": 459,
-      "period_stars": 46,
+      "stars": 4969,
+      "forks": 464,
+      "period_stars": 42,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1608,20 +1608,20 @@
           "language": "javascript",
           "period": "daily",
           "rank": 5,
-          "period_stars": 46
+          "period_stars": 42
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "babygoton/workdaddy": {
       "name": "babygoton/WorkDaddy",
       "url": "https://github.com/babygoton/WorkDaddy",
       "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
       "language": "JavaScript",
-      "stars": 3528,
-      "forks": 388,
-      "period_stars": 48,
+      "stars": 3546,
+      "forks": 389,
+      "period_stars": 27,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1630,20 +1630,20 @@
           "language": "javascript",
           "period": "daily",
           "rank": 7,
-          "period_stars": 48
+          "period_stars": 27
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "dietrichgebert/ponytail": {
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 199586,
-      "forks": 11339,
-      "period_stars": 687,
+      "stars": 200342,
+      "forks": 11399,
+      "period_stars": 713,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1652,20 +1652,20 @@
           "language": "javascript",
           "period": "daily",
           "rank": 8,
-          "period_stars": 687
+          "period_stars": 713
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "openai/codex-plugin-cc": {
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars": 35487,
-      "forks": 2476,
-      "period_stars": 30,
+      "stars": 35500,
+      "forks": 2479,
+      "period_stars": 16,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1675,20 +1675,20 @@
           "language": "javascript",
           "period": "daily",
           "rank": 9,
-          "period_stars": 30
+          "period_stars": 16
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "had0yun/cozyclay": {
       "name": "HaD0Yun/CozyClay",
       "url": "https://github.com/HaD0Yun/CozyClay",
       "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
       "language": "JavaScript",
-      "stars": 2083,
-      "forks": 223,
-      "period_stars": 42,
+      "stars": 1895,
+      "forks": 212,
+      "period_stars": 33,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1697,11 +1697,11 @@
           "language": "javascript",
           "period": "daily",
           "rank": 10,
-          "period_stars": 42
+          "period_stars": 33
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "mrdbourke/pytorch-deep-learning": {
       "name": "mrdbourke/pytorch-deep-learning",
@@ -1842,9 +1842,9 @@
       "url": "https://github.com/intrinsic-ai/intrinsic-core",
       "description": "Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, real-time control framework for industrial robotics.",
       "language": "C++",
-      "stars": 808,
-      "forks": 103,
-      "period_stars": 8,
+      "stars": 812,
+      "forks": 104,
+      "period_stars": 6,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -1853,20 +1853,20 @@
           "language": "c++",
           "period": "daily",
           "rank": 5,
-          "period_stars": 8
+          "period_stars": 6
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "k2-fsa/sherpa-onnx": {
       "name": "k2-fsa/sherpa-onnx",
       "url": "https://github.com/k2-fsa/sherpa-onnx",
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
-      "stars": 16274,
-      "forks": 1926,
-      "period_stars": 26,
+      "stars": 16291,
+      "forks": 1931,
+      "period_stars": 25,
       "categories": [
         "Vision, Speech & Multimodal AI"
       ],
@@ -1875,20 +1875,20 @@
           "language": "c++",
           "period": "daily",
           "rank": 6,
-          "period_stars": 26
+          "period_stars": 25
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "kvcache-ai/mooncake": {
       "name": "kvcache-ai/Mooncake",
       "url": "https://github.com/kvcache-ai/Mooncake",
       "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
-      "stars": 7147,
-      "forks": 1540,
-      "period_stars": 9,
+      "stars": 7152,
+      "forks": 1541,
+      "period_stars": 11,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools"
@@ -1898,11 +1898,11 @@
           "language": "c++",
           "period": "daily",
           "rank": 10,
-          "period_stars": 9
+          "period_stars": 11
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "janhq/jan": {
       "name": "janhq/jan",
@@ -1998,9 +1998,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.",
       "language": "Go",
-      "stars": 58147,
-      "forks": 7649,
-      "period_stars": 173,
+      "stars": 58240,
+      "forks": 7667,
+      "period_stars": 132,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -2009,20 +2009,20 @@
           "language": "go",
           "period": "daily",
           "rank": 6,
-          "period_stars": 173
+          "period_stars": 132
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "gastownhall/beads": {
       "name": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
-      "stars": 29142,
-      "forks": 1963,
-      "period_stars": 59,
+      "stars": 29179,
+      "forks": 1964,
+      "period_stars": 43,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -2031,20 +2031,20 @@
           "language": "go",
           "period": "daily",
           "rank": 9,
-          "period_stars": 59
+          "period_stars": 43
         }
       ],
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "microsoft/copilot-sdk": {
       "name": "microsoft/copilot-sdk",
       "url": "https://github.com/microsoft/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars": 10723,
-      "forks": 1540,
-      "period_stars": 3,
+      "language": "Rust",
+      "stars": 10721,
+      "forks": 1542,
+      "period_stars": 6,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -2053,20 +2053,20 @@
           "language": "java",
           "period": "daily",
           "rank": 5,
-          "period_stars": 3
+          "period_stars": 6
         }
       ],
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "langchain4j/langchain4j": {
       "name": "langchain4j/langchain4j",
       "url": "https://github.com/langchain4j/langchain4j",
       "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
       "language": "Java",
-      "stars": 13448,
-      "forks": 2715,
-      "period_stars": 3,
+      "stars": 13454,
+      "forks": 2716,
+      "period_stars": 6,
       "categories": [
         "LLMs & Generative AI",
         "AI Agents & Developer Tools",
@@ -2077,20 +2077,20 @@
           "language": "java",
           "period": "daily",
           "rank": 12,
-          "period_stars": 3
+          "period_stars": 6
         }
       ],
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "apache/seatunnel": {
       "name": "apache/seatunnel",
       "url": "https://github.com/apache/seatunnel",
       "description": "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.",
       "language": "Java",
-      "stars": 9839,
-      "forks": 2480,
-      "period_stars": 2,
+      "stars": 9840,
+      "forks": 2482,
+      "period_stars": 4,
       "categories": [
         "Vision, Speech & Multimodal AI"
       ],
@@ -2099,20 +2099,20 @@
           "language": "java",
           "period": "daily",
           "rank": 13,
-          "period_stars": 2
+          "period_stars": 4
         }
       ],
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "kestra-io/kestra": {
       "name": "kestra-io/kestra",
       "url": "https://github.com/kestra-io/kestra",
       "description": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
       "language": "Java",
-      "stars": 30382,
+      "stars": 30391,
       "forks": 3557,
-      "period_stars": 18,
+      "period_stars": 19,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -2121,20 +2121,20 @@
           "language": "java",
           "period": "daily",
           "rank": 16,
-          "period_stars": 18
+          "period_stars": 19
         }
       ],
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "samuelgursky/davinci-resolve-mcp": {
       "name": "samuelgursky/davinci-resolve-mcp",
       "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
       "description": "MCP server integration for DaVinci Resolve Studio",
       "language": "Python",
-      "stars": 4446,
-      "forks": 506,
-      "period_stars": 17,
+      "stars": 4465,
+      "forks": 513,
+      "period_stars": 57,
       "categories": [
         "AI Agents & Developer Tools"
       ],
@@ -2143,11 +2143,11 @@
           "language": "python",
           "period": "daily",
           "rank": 19,
-          "period_stars": 17
+          "period_stars": 57
         }
       ],
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     }
   }
 }
